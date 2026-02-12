@@ -1,0 +1,388 @@
+Java Introduction Question and Answers:
+
+Q1) Why we need to keep [] after String ..? 
+
+Q2) Why we need to keep spaces in between the keywords ..? 
+
+Q3) Why we kept Capital Letter for String, System,Student ..?
+
+Q4) System out println why we need to keep dots ..? 
+
+Q5) Why we need to static for main method ..? 
+
+Q6) Why we need to use only semicolon ..? 
+
+Q7) instead of println can we use print and what is the difference ..? 
+
+Q8) Is your class name and file name must be same ..? 
+
+Q9) Without class can we write statements ..? 
+
+Q10) What is the use of each keyword and why ..? 
+
+Q11) Who will call main method ..? 
+
+Q12) Can we keep any other variables instead of out ..? 
+
+Q13) Can we change order of main method ..? 
+
+Q14) What is the main method and why ..? 
+
+Q15) void means nothing then why should we use ..? 
+
+Q16) can we remove String[] args ..? 
+
+Q17) instead of String[] args can we add any other args ..? 
+
+Q18) Instead main can write any other name ..? 
+
+Q19) can we remove static to compile and execute main method ..? 
+
+Q20) Can we remove public ..? 
+
+Q21) How many ways we can write main method..? 
+
+Q22) Can we use private instead of public for main method ..? 
+
+Q23) instead of double quotes can we use single quotes ..? 
+
+Q24) What happened curly brackets are not using for a program ..? 
+
+
+Q25) Why only curly brackets ..? 
+
+Q26) Why we need to write statements only in curly brackets ..? 
+
+Q27) Can we use keyword starts with Capital letters ..? 
+
+Q28) Why we need follow indentation ..? 
+
+Q29) Why we need to use class ..? 
+
+
+Q30) what is .out ..? 
+
+Q31) Can we use keywords as class names ..? 
+
+Q32) Can we write only one method in a single or can we write 1000 methods like ..? 
+
+Q33) Can we write duplicate main methods with the same arguments ..? 
+
+Q34) Can we write class name & class ..? 
+
+Q35) Can we create class inside class ..? 
+
+Q36) Can we write methods inside a methods ..? 
+
+Q37) Instead of args can we use Bharath ..? 
+
+
+Q38) Can we write statements inside a class ..? 
+
+Q39) Can we keep any other format instead of String[] ..? String ...
+
+Q40) String[] args --> String args[] --> String  [] args --> String []args ..? Can we write like this ..? 
+
+
+Q41) Why we need to use {}, (), [] and <> ..? 
+
+Q42) Why we need to use String[] args ..? 
+
+Q43) Can we write any number of statements in main method ..?
+
+Q44) In a single statement can we write multiple lines ..? 
+
+Q45) Can we write with out a class only main method and inside that main method can we keep classes ..? 
+
+
+Q46) Why we need to use public static void for main method ..? 
+
+Q47) can we execute without main method is there any alternative for execution ..? 
+
+
+Q48) Can we use any other collection object ofr String[] like String Stack or queue or anything ..? 
+
+
+Q49) Instead of String can we use int or float ..? 
+
+Q50) What is the scope of inside a main method variables ..? 
+
+Q51) Why we keep () after main and after println ..? 
+
+Q52) Instead of static can we use dynamic ..? 
+
+Q53) Class is used to create an Object then in our program why didn't you create Objects ..? 
+
+Q54) Can we change class syntax ..? 
+
+Q55) Why we need to keep public before class ..? 
+
+Q56) Can we print without System.out.println(); 
+
+Q57) Inside main can we create class ..? 
+
+Q58) Can we create same Object using different classes ..? 
+
+Q59) why we didn't keep semicolon after class ..? 
+
+Q60) If we didn't use parenthesis what happened ..? 
+
+Q61)  What is the meaning of print and ln ..? 
+
+Q62) Why can't we write class name starts with numbers ..? 
+
+Q63) What is the difference between println vs print vs printf ..? 
+
+Q64) If we able to see the code with the decompilers then where is the Security and how can we say Java is Secure ..? 
+
+Q65) Can we keep only String[] or only args[] ..? 
+
+Q66) Can we use 2D array for String ..? 
+
+Q67) WHy we need to compile and instead of directly executing ..? 
+
+
+Q68) Why we need to notepadd+ can we use any other IDE's and why we should cmd prompt for compilation & execution ..? 
+
+
+Q69) We got the output in command how we will use that output ..? 
+
+Q70) What is System.out.println ..? 
+
+Q71) What is meant by arguments ..? 
+
+Q72) Why  We write class and class name in starting, can we write any other info ..? 
+
+
+Q73) What is the purpose of main method?
+
+Q74) What if static is removed?
+
+
+Q75) what happens if we use int instead of void?
+
+
+Q76) Why we used void keyword there at main method  ?
+
+
+Q77) What is the use of args
+
+
+Q78) Can numbers be printed instead of text?
+
+
+Q79) why ' string[] args ' is written and what is its importance?
+
+Q80) can't we use same brackets for whole structure?
+
+mahesh-JFS-B70-866380 8:41
+Q81) Can we use main method outside of the class ..? 
+
+
+Q82) What happens if you don't use 1 curly bracket in 2 curly brackets????
+
+
+Q83) We can use class name as a main method..? 
+
+
+
+Q84) What happens if there is no space in public, class, vodi, main?
+
+
+Q85) Can a Java program run without any class?
+
+
+
+Q86) how many main methods are there inside class please give me the number?
+
+
+Q87) Can we write multiple methods in a single line instead of writing multiple lines..
+
+
+Q88) what happens if we write two or multiple main methods ?
+
+
+Q89) Why we are writing string in " "..?
+
+Q90) What's is diff  b/w methods and objects.?
+
+Q91) Can we write class name in capital letters or small letter etc ?
+
+
+Q92) Can we create multiple classes in a single program?
+
+
+Q93) how is system.out.println is printing?explain each term and their functionality
+
+Q94) Can't we write total program in capital letters ..? 
+
+Q95) In our above program how many types errors will occurs ..? 
+
+Q96) Is syntax mandate ..? 
+
+
+
+
+
+
+
+
+
+
+
+
+JVM ARCHITECTURE
+JVM MEANS JAVA VIRTUAL MACHINE.
+IT CONVERTS THE BYTE CODE TO THE NATIVE CODE IN OPERATING SYSTEM AND THIS OS GIVES THE OUTPUT.
+IS COMPILATION AND RUN BOTH ARE SAME:
+NO, BECAUSE THE COMPILATION MEANS THAT THE COMPILER CAN CONVERT THE .CLASS FILE TO THE INTERMEDIATE FILE.
+PROCESS:
+STEP 1: WRITE CODE(JAVA)
+STEP 2: COMPILE THE CODE USING (JAVAC)
+STEP 3: THEN RUN THE CODE
+  
+  
+RUNNING:
+RUN THE CODE MEANS THAT THE IT EXICUTES THE PROGRAM AND GIVES THE OUTPUT.
+STEP 1: CODE SAVE IN JAVA
+STEP 2: OUTPUT
+
+
+IF WE WANT ACCESS SOME DATA WITH OUT WRITING IN THE CODE WE USE COMMAND PROMPT.
+IN THIS ONCE WE COMPILE ANY CODE CORRECTLY THEN WRITE SOMETHING IN "I LIKE JAVA" LIKE THIS THEN
+ THE OUTPUT CAN BE TAKEN AS THE STRING ARGS IN THE MAIN METHOD.
+EXAMPLE:
+JAVAC FILENAME.JAVA
+JAVA FILENAME I LIKE JAVA(ALONG WITH SOME CONTENT)  THEN THE OUTPUT OF THE PROGRAM ALONG WITH I LIKE JAVA WILL BE PRINT.
+
+CAN WE WRITE PSVM IN ANOTHER FORM?
+YES,
+STATIC PUBLIC VOID FINAL SYNCHRONIZED MAIN(STRING ARGS[])
+
+CAN WE REPLACE THE ARGS IN THE MAIN METHOD?
+YES
+WE CAN WRITE WHAT EVER THE VARIABLE WE WANT.
+LIKE LIKHITHA, JAVA ETC..
+
+CAN WE WRITE N NUMBER OF CLASSES IN ONE PROGRAM?
+YES WE CAN WRITE N NUMBER OF CLASSES IN ONE PROGRAM ALONG WITH MAIN METHODS.
+FOR EVERY CLASS THERE WILL BE ONE .CLASS FILE WILL BE CREATED.
+
+CAN WE WRITE  NUMBER OF PUBLIC CLASSES IN JAVA PROGRAM?
+NO, IN ONE JAVA PROGRAM IT CAN BE ONLY ONE PUBLIC CLASS. WITHOUT USING PUBLIC WE CAN WRITE N NUMBER OF CLASSES IN SIDE THE JAVA PROGRAM.
+
+JVM ARCHITECTURE CLASS 1:
+
+WHY WE NEED TO LEARN JVM?
+
+    - WITHOUT JVM WE CAN NOT EXECUTE THE JAVA PROGRAM.
+	- FOR COMPILATION WE NEED JDK(JAVA DEVELOPMENT KIT).
+	- JDK = JRE + JVM. OR
+	- JDK = JRE + DEVELOPMENT TOOLS(JAVAC, JAVA, JRE, JCONSOLE, JDB.....).
+	- COMPILATION CAN BE DONE BY COMPILER.
+	- EXECUTION CAN BE DONE BY JVM ALONG WITH INTERPRETER. 
+	- JVM CONVERTS BYTE CODE TO NATIVE CODE. 
+	
+	
+DIFFERENCE BETWEEN JDK, JRE AND JVM?
+JDK IS A OPEN SOURCE(FREE ALONG WITH ANY OTHER DEVELOPMENTS ALSO POSSIBLE) SOFTWATE TO DOWNLOAD AND INSTALL IN YOUR SYSTEM TO COMPILE AND EXECUTE JAVA PROGRAMS.
+JRE = LIBRARY CLASSES +JVM TO PROVIDE THE ENVIRONMENT FOR THE PRE-DEFINED CLASSES.
+JVM IS AN INTERNAL SYSTEM TO CONVERT BYTECODE TO NATIVECODE AND EXECUTE A JAVA CODE.
+	
+EXECUTION PROCESS:
+
+.JAVA --->  SOURCE CODE ---AFTER COMPILATION--> BYTE CODE
+.CLASS --> BYTE CODE --- AFTER EXECUTION --> NATIVE CODE --> OS --> OUTPUT.
+
+Day 2:
+
+
+what a class can contains?
+A class ccan contains
+1) data members(variables + methods)  : two types
+   a) static variables, static methods
+   b) instance variables, instance methods
+   
+2) blocks: two types
+    a) static blocks
+	b) instance blocks
+	
+3) constructors: three types
+     a) default constructors
+	 b) no arg constructors
+	 c) parameterized constructors
+	 d) copy constructors
+	 e) constructor chaining
+	 
+4) inner classes: four types
+     a) regular or normla inner classes
+	 b) static inner classes
+     c) method inside inner classes	
+     d) anonymous inner classes	 
+
+5)interfaces:three types
+      a) normal interfaces
+	  b) functional interfaces
+	  c) marker interfaces
+
+variable: it is a container to store the single value.	  
+     eg: int a= 10;
+Method: it is a block of code to execute based on your functionality and a method can contains collection of statements and logics.
+     eg: void add()
+	 {
+	 // statements and logics
+	 }
+	 
+constructor: to initialise object and its instance data we need a constructor
+        and constructor is same like your class name it looks like a method but not.
+	eg:
+	  class A{
+	      A(){
+		  }}
+A method contains the return type but constructor dont have the return type.
+
+block: it is used to maintain collection of statements and logics based on your requirements.
+
+Note: method we must need to call explicitly but blocks will load automatically like 
+-when class loading static blocks will load
+-when object loading instance block will load to the memory and executes automaticaaly wwe need to call explicitly.
+
+Inner classes:  class inside the class, to solve temporery problems.
+
+inner interfaces: we can write interfaces in a classes.
+interface consider as blueprint of a class.
+
+
+Day 1:
+
+TYPES OF JVM ARCHITECTURE:
+1) CLASS LOADER SUB SYSTEM
+    a) Loading 
+	   - bootstrap c l 
+	   - extension c l
+	   - application  c l
+	b) Linking
+	    - verify :  If something went wrong with bytecode JVM will through an  linkederror -claassFormat Error
+		- prepare: static data
+		- resolve:
+	C) INTILIAZATION	
+		
+2) MEMORY MANAGEMENT OR RUNTIME DATA
+    A) METHOD AREA
+	B) HEAP AREA
+	C) STACK AREA
+	D) PC RESISTER
+	E) NATIVE METHOD STACK AREA
+3) EXECUTION ENGINE
+     A) INTERPRETER
+	 B) JIT COMPILER
+	 C) GARBAGE COLLECTOR
+4) JNI
+5) NATIVE LIBRARIES  
+		
+		
+		
+		
+		
+		
+	
