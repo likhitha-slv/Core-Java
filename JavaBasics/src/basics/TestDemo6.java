@@ -11,7 +11,7 @@ public class TestDemo6 {
 	int eng;
 	int maths;
 
-	void marks() {
+	void mark() {
 		System.out.println("marks");
 		int sum = telugu + hindi + eng + maths;
 		System.out.println("Display the sum:" + sum);
@@ -51,7 +51,7 @@ public class TestDemo6 {
 		t6.maths = 95;
 
 		System.out.println(t6.maths);
-		t6.marks();
+		t6.mark();
 
 		TestDemo6 t7 = new TestDemo6();
 		System.out.println("second student details");
@@ -78,7 +78,7 @@ public class TestDemo6 {
 
 		System.out.println(t7.maths);
 
-		t7.marks();
+		t7.mark();
 
 	}
 }
