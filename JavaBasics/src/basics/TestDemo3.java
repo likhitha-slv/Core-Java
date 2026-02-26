@@ -1,7 +1,7 @@
 // GARBAGE COLLECTION//
-				package basics;
+package basics;
 				
-                 public class TestDemo3 
+public class TestDemo3 
 {
 	// step3: object inside a method
   static void method()
