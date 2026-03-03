@@ -2,7 +2,7 @@ package JavaBasicsMethods;
 
 public class LabTask1 
 {  // With return type + No parameter 
-	int getAge()
+/*	int getAge()
 	{
 	  int a = 10;
 	  return a;
@@ -54,19 +54,19 @@ void main()
 
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 }
 	
-		/*
+	
+	*/
+	
+	
+	
+	
+	
+	
+
+	
+	
 //	instance method with int return type and with two perameters method creating
 	int add(int a, int b) {
 
@@ -95,10 +95,10 @@ void main()
     	 System.out.println("division: " +l);
     	 return l;
     }
+
 	void main() {
 		System.out.println("Main method started");
 		add(10,20);
 	}
 
 }
-*/

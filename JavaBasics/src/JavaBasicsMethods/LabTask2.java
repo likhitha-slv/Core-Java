@@ -1,7 +1,7 @@
 package JavaBasicsMethods;
-
+// with argument + with return type
 import java.util.*;
-
+// WRITE A PROGRAM OF AREA OF TRIANGLE , SQUARE , RECTANGLE AND CIRCLE
 public class LabTask2 {
 
 	public static void main(String[] args) {
