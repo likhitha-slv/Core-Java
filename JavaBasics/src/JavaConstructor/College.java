@@ -5,8 +5,7 @@ package JavaConstructor;
 //Store college name and location.
 //Use constructor overloading and this keyword.
 import java.util.*;
-
-public class College {
+class College {
 	String cName;
 	String location;
 
