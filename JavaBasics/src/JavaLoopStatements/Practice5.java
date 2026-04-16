@@ -1,3 +1,4 @@
+package JavaLoopStatements;
 import java.util.Scanner;
 
 public class Practice5 {

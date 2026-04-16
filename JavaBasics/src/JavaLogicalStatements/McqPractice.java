@@ -46,12 +46,21 @@ public class McqPractice {
 		}
 		*/
 		
-		int x = 4;
+		/*int x = 4;
 		if(x > 2)
 		{
 		    if(x < 5)
 		        System.out.println("Yes");
 		}
+		
+		*/
+		int x = 2;
+	     switch(x) {
+	         case 1:
+	         case 2:
+	         case 3: System.out.println("Yes");
+	         default: System.out.println("No");
+	     }
 	}
 
 }

@@ -10,7 +10,10 @@ public class ClassPractice1 {
      {
     	 System.out.println("Yes");
      }
-     
+     else
+     {
+    	 System.out.println("No");
+     }
 	}
 
 }
