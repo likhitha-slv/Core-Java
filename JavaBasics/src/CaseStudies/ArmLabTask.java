@@ -1,4 +1,4 @@
-package JavaLoopStatements;
+package CaseStudies;
 
 import java.util.Scanner;
 

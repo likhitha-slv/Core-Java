@@ -1,4 +1,4 @@
-package JavaConstructor;
+package CaseStudies;
 
 import java.util.*;
 

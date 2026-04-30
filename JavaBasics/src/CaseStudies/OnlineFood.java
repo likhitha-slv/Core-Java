@@ -1,4 +1,4 @@
-package JavaBasicsMethods;
+package CaseStudies;
 // Online food delivery system
 import java.util.Scanner;
 
