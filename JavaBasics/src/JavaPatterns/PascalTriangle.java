@@ -12,6 +12,7 @@ public class PascalTriangle {
 				System.out.print(num + " ");
 				num = num * (i - j) / (j + 1);
 			}
+			
 			System.out.println();
 		}
 	}
